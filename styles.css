@@ -1,0 +1,21 @@
+.container{
+    height: 700px;
+    background-color: firebrick;
+    position: relative;
+}
+
+#image-1{
+    position: absolute;
+    width: 25%;
+    top: 15px;
+    left: 35px;
+}
+
+
+#image-2{
+    position: absolute;
+    width: 25%;
+    top: 15px;
+    right: 35px;
+
+}
